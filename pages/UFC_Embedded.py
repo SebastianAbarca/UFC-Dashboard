@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
-import load_data as ld
+from scripts import load_data as ld
 import plotly.express as px
 from sklearn.linear_model import Ridge
 from sklearn.metrics import r2_score, mean_squared_error

@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('UFC_PPV_incomplete.csv')
+df = pd.read_csv('../data/UFC_PPV_incomplete.csv')
 df['Event'] = df['Event'].astype(str).str.strip()
 full_events = pd.DataFrame({
     'Event': [f"UFC {i}" for i in range(173, 319)]  # 319 because upper bound is exclusive

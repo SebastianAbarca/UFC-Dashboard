@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import plotly.express as px
 import streamlit as st
-import load_data as ld
+from scripts import load_data as ld
 
 df = ld.load_data()
 fighters_df = pd.concat([

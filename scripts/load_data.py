@@ -1,8 +1,12 @@
 import pandas as pd
-
+import streamlit as st
+import os
 def load_data():
-    df_ppv = pd.read_csv('ufc_events.csv')
-    df_embedded = pd.read_csv('ufc_embedded_data.csv')
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path_ppv = os.path.join(current_dir, '../data/ufc_events.csv')
+    df_ppv = pd.read_csv(file_path_ppv)
+    file_path_embedded = os.path.join(current_dir, '../data/ufc_embedded_data.csv')
+    df_embedded = pd.read_csv(file_path_embedded)
     df_ppv['PPV'] = df_ppv['PPV'].str.replace(',', '').replace('', pd.NA)
     df_ppv['PPV'] = pd.to_numeric(df_ppv['PPV'], errors='coerce')
     for col in df_embedded.columns[2:]:  # skip 'Unnamed: 0' and 'Event'
