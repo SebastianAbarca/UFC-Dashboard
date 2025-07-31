@@ -1,0 +1,116 @@
+Index,Fighter,DoB,Weight_Class
+0,Barao,1987-01-31,Bantamweight
+1,D. Johnson,1986-08-13,Flyweight/ Bantamweight
+2,Weidman,1984-06-17,Middleweight
+3,Dillishaw,1986-02-07,Bantamweight
+4,Aldo,1986-09-09,Featherweight
+5,Werdum,1977-07-30,Heavyweight
+6,Hendricks,1983-09-12,Welterweight
+7,Jones,1987-07-19,Light Heavyweight
+8,A. Silva,1975-04-14,Middleweight
+9,Rousey,1987-02-01,Bantamweight
+10,Pettis,1987-01-27,Lightweight
+11,Johnson,1984-03-06,Light Heavyweight
+12,Velasquez,1982-07-28,Heavyweight
+13,Mendes,1985-03-01,Featherweight
+14,Cormier,1979-03-20,Light Heavyweight/ Heavyweight
+15,Lawler,1982-03-20,Welterweight
+16,McGregor,1988-07-14,Featherweight/ Lightweight
+17,Rockhold,1984-10-17,Middleweight
+18,Tate,1986-08-18,Bantamweight
+19,Diaz,1985-04-16,Lightweight
+20,Miocic,1982-08-19,Heavyweight
+21,Bisping,1979-02-28,Middleweight
+22,Alvarez,1984-01-11,Lightweight
+23,Holloway,1991-04-12,Featherweight
+24,Nunes,1988-05-30,Bantamweight/ Featherweight
+25,Holm,1981-10-17,Bantamweight
+26,Woodley,1982-04-07,Welterweight
+27,Romero,1977-04-30,Middleweight
+28,Ferguson,1984-02-12,Lightweight
+29,Cyborg,1985-07-09,Featherweight
+30,Khabib,1988-09-20,Lightweight
+31,Whittaker,1990-12-20,Middleweight
+32,Adesanya,1989-07-22,Middleweight
+33,Namajunas,1992-06-29,Strawweight/ Flyweight
+34,Cejudo,1987-02-09,Flyweight/ Bantamweight
+35,Masvidal,1984-11-12,Lightweight/ Welterweight
+36,Usman,1987-05-11,Welterweight
+37,Figueiredo,1987-12-18,Flyweight
+38,Poirier,1989-01-19,Lightweight
+39,Blachowicz,1983-02-24,Light Heavyweight
+40,Oliveira,1989-10-17,Featherweight/ Lightweight
+41,Lewis,1985-02-07,Heavyweight
+42,Volkanovski,1988-09-29,Featherweight
+43,Ngannou,1986-09-05,Heavyweight
+44,Covington,1988-02-22,Welterweight
+45,Teixera,1979-10-28,Light Heavyweight
+46,Pena,1989-08-19,Bantamweight
+47,Edwards,1991-08-25,Welterweight
+48,Pereira,1987-07-07,Middleweight/ Light Heavyweight
+49,Sterling,1989-07-31,Bantamweight/ Featherweight
+50,Makhachev,1991-10-27,Lightweight
+51,Prochazka,1992-10-14,Light Heavyweight
+52,Strickland,1991-02-27,Middleweight
+53,O’Malley,1994-10-24,Bantamweight
+54,Pantoja,1990-04-16,Flyweight
+55,Du Plessis,1994-01-14,Middleweight
+56,Grasso,1993-08-09,Strawweight/ Flyweight
+57,Topuria,1997-01-21,Featherweight/ Lightweight
+58,Muhammad,1988-07-09,Welterweight
+59,Dvalishvili,1991-01-10,Bantamweight
+60,Bagautinov,1985-06-12,Flyweight
+61,Machida,1978-05-30,Middleweight/ Light Heavyweight
+62,Soto,1987-03-22,Bantamweight
+63,Cariaso,1981-05-27,Flyweight
+64,Hunt,1974-03-23,Heavyweight
+65,Zingano,1982-07-01,Bantamweight/ Featherweight
+66,Dos Anjos,1984-10-26,Lightweight/ Welterweight
+67,Horiguchi,1990-10-12,Flyweight
+68,Dodson,1984-09-26,Flyweight/ Bantamweight
+69,Gustafsson,1987-01-15,Light Heavyweight
+70,Condit,1984-04-26,Welterweight
+71,Saint Preux,1983-04-08,Light Heavyweight
+72,Overeem,1980-05-17,Heavyweight
+73,Henderson,1970-08-24,Middleweight/ Light Heavyweight/ Heavyweight
+74,De Randamie,1984-04-24,Bantamweight/ Featherweight
+75,Thompson,1983-02-11,Welterweight
+76,Dos Santos,1984-01-30,Heavyweight
+77,Shevchenko,1988-03-07,Flyweight/ Bantamweight
+78,Lee,1992-09-04,Lightweight
+79,St. Pierre,1981-05-19,Welterweight/ Middlweight
+80,Kunitskaya,1989-11-11,Bantamweight
+81,Iaquinta,1987-04-30,Lightweight
+82,Pennington,1989-08-19,Bantamweight
+83,Garbrant,1991-07-07,Bantamweight
+84,Till,1992-12-24,Welterweight
+85,Ortega,1991-02-21,Featherweight
+86,Smith,1988-07-26,Light Heavyweight
+87,Andrade,1991-09-25,Strawweight/ Flyweight/ Bantamweight
+88,Moraes,1988-04-26,Bantamweight
+89,Santos,1984-01-07,Middleweight/ Light Heavyweight
+90,Edgar,1981-10-16,Bantamweight/ Featherweight
+91,Cerrone,1983-03-29,Lightweight/ Welterweight
+92,Reyes,1989-12-26,Light Heavyweight
+93,Gaethje,1988-11-14,Lightweight
+94,Spencer,1990-11-20,Featherweight
+95,Costa,1991-04-21,Middleweight
+96,Perez,1992-03-21,Flyweight
+97,Moreno,1993-12-07,Flyweight
+98,Burns,1986-06-20,Welterweight
+99,Chandler,1986-04-24,Lightweight
+100,Vettori,1993-09-20,Middleweight
+101,Gane,1990-04-12,Heavyweight
+102,Chan Sung Jung,1987-05-17,Featherweight
+103,Cannonier,1984-05-16,Middleweight
+104,Ankalaev,1992-06-02,Light Heavyweight
+105,Hill,1991-05-19,Light Heavyweight
+106,Aldana,1988-03-26,Bantamweight
+107,Rodriguez,1992-10-06,Featherweight
+108,Vera,1992-12-02,Bantamweight
+109,Erceg,1995-05-01,Flyweight
+110,Yan,1993-02-11,Bantamweight
+111,Asakura,1993-10-31,Flyweight
+112,Moicano,1989-05-21,Featherweight/ Lightweight
+113,Lopes,1994-12-30,Featherweight
+114,Della Maddalena,1996-10-10,Welterweight

@@ -1,0 +1,144 @@
+Event,Subtitle,Date,Opponent1,Opponent2,PPV,Weight_Class
+UFC 173,Barao vs. Dillishaw,2014-05-24,Barao,Dillishaw,"215,000",Bantamweight
+UFC 174,Johnson vs. Bagautinov,2014-06-14,D. Johnson,Bagautinov,"115,000",Flyweight
+UFC 175,Weidman vs. Machida,2014-07-05,Weidman,Machida,"525,000",Middleweight
+UFC 177,Dillishaw vs. Soto,2014-08-30,Dillishaw,Soto,"125,000",Bantamweight
+UFC 178,Johnson vs Cariaso,2014-09-27,D. Johnson,Cariaso,"205,000",Flyweight
+UFC 179,Aldo vs. Mendes 2,2014-10-25,Aldo,Mendes,"180,000",Featherweight
+UFC 180,Werdum vs. Hunt,2014-11-15,Werdum,Hunt,"185,000",Heavyweight
+UFC 181,Hendricks vs. Lawler 2,2014-12-06,Hendricks,Lawler,"400,000",Welterweight
+UFC 182,Jones vs. Cormier,2015-01-03,Jones,Cormier,"800,000",Light Heavyweight
+UFC 183,Silva vs. Diaz,2015-01-31,A. Silva,Diaz,"650,000",Middleweight
+UFC 184,Rousey vs. Zingano,2015-02-28,Rousey,Zingano,"590,000",Bantamweight
+UFC 185,Pettis vs. Dos Anjos,2015-03-14,Pettis,Dos Anjos,"310,000",Lightweight
+UFC 186,Johnson vs. Horiguchi,2015-04-25,D. Johnson,Horiguchi,"125,000",Flyweight
+UFC 187,Johnson vs. Cormier,2015-05-23,Johnson,Cormier,"375,000",Light Heavyweight
+UFC 188,Velasquez vs. Werdum,2015-06-13,Velasquez,Werdum,"300,000",Heavyweight
+UFC 189,Mendes vs. McGregor,2015-07-11,Mendes,McGregor,"825,000",Featherweight
+UFC 190,Rousey vs. Correia,2015-08-01,Rousey,Correia,"900,000",Bantamweight
+UFC 191,Johnson vs Dodson 2,2015-09-05,D. Johnson,Dodson,"115,000",Flyweight
+UFC 192,Cormier vs. Gustafsson,2015-10-03,Cormier,Gustafsson,"250,000",Light Heavyweight
+UFC 193,Rousey vs. Holm,2015-11-14,Rousey,Holm,"1,100,000",Bantamweight
+UFC 194,Aldo vs. McGregor,2015-12-12,Aldo,McGregor,"1,200,000",Featherweight
+UFC 195,Lawler vs. Condit,2016-01-02,Lawler,Condit,"300,000",Welterweight
+UFC 196,McGregor vs. Diaz,2016-03-05,McGregor,Diaz,"1,317,000",Lightweight
+UFC 197,Jones vs. Saint Preux,2016-04-23,Jones,Saint Preux,"322,000",Light Heavyweight
+UFC 198,Werdum vs Miocic,2016-05-14,Werdum,Miocic,"217,000",Heavyweight
+UFC 199,Rockhold vs. Bisping 2,2016-06-04,Rockhold,Bisping,"283,000",Middleweight
+UFC 200,Tate vs. Nunes,2016-07-09,Tate,Nunes,"1,009,000",Bantamweight
+UFC 201,Lawler vs. Woodley,2016-07-30,Lawler,Woodley,"240,000",Welterweight
+UFC 202,Diaz vs. McGregor 2,2016-08-20,Diaz,McGregor,"1,600,000",Lightweight
+UFC 203,Miocic vs. Overeem,2016-09-10,Miocic,Overeem,"475,000",Heavyweight
+UFC 204,Bisping vs. Henderson 2,2016-10-08,Bisping,Henderson,"290,000",Middleweight
+UFC 205,Alvarez vs. McGregor,2016-11-12,Alvarez,McGregor,"1,300,000",Lightweight
+UFC 206,Holloway vs. Pettis,2016-12-10,Holloway,Pettis,"150,000",Featherweight
+UFC 207,Nunes vs. Rousey,2016-12-30,Nunes,Rousey,"1,100,000",Bantamweight
+UFC 208,Holm vs. de Randamie,2017-02-11,Holm,De Randamie,"208,000",Bantamweight
+UFC 209,Woodley vs. Thompson 2,2017-03-04,Woodley,Thompson,"300,000",Welterweight
+UFC 210,Cormier vs. Johnson 2,2017-04-08,Cormier,Johnson,"300,000",Light Heavyweight
+UFC 211,Miocic vs. Dos Santos 2,2017-05-13,Miocic,Dos Santos,"300,000",Heavyweight
+UFC 212,Aldo vs. Holloway,2017-06-03,Aldo,Holloway,"200,000",Featherweight
+UFC 213,Romero vs. Whittaker,2017-07-08,Romero,Whittaker,"200,000",Middleweight
+UFC 214,Cormier vs. Jones 2,2017-07-29,Cormier,Jones,"860,000",Light Heavyweight
+UFC 215,Nunes vs. Shevchenko 2,2017-09-09,Nunes,Shevchenko,"100,000",Bantamweight
+UFC 216,Ferguson vs. Lee,2017-10-07,Ferguson,Lee,"200,000",Lightweight
+UFC 217,Bisping vs. St. Pierre,2017-11-04,Bisping,St. Pierre,"875,000",Middleweight
+UFC 218,Holloway vs. Aldo 2,2017-12-02,Holloway,Aldo,"230,000",Featherweight
+UFC 219,Cyborg vs. Holm,2017-12-30,Cyborg,Holm,"380,000",Featherweight
+UFC 220,Miocic vs. Ngannou,2018-01-20,Miocic,Ngannou,"350,000",Heavyweight
+UFC 221,Romero vs. Rockhold,2018-02-11,Romero,Rockhold,"130,000",Middleweight
+UFC 222,Cyborg vs. Kunitskaya,2018-03-03,Cyborg,Kunitskaya,"260,000",Featherweight
+UFC 223,Nurmagomedov vs. Iaquinta,2018-04-07,Khabib,Iaquinta,"350,000",Lightweight
+UFC 224,Nunes vs. Pennington,2018-05-12,Nunes,Pennington,"85,000",Bantamweight
+UFC 225,Whittaker vs. Romero 2,2018-06-09,Whittaker,Romero,"250,000",Middleweight
+UFC 226,Miocic vs. Cormier,2018-07-07,Miocic,Cormier,"380,000",Heavyweight
+UFC 227,Dillishaw vs. Garbrant 2,2018-08-04,Dillishaw,Garbrant,"300,000",Bantamweight
+UFC 228,Woodley vs. Till,2018-09-08,Woodley,Till,"130,000",Welterweight
+UFC 229,Nurmagomedov vs. Mcgregor,2018-10-06,Khabib,McGregor,"2,400,000",Lightweight
+UFC 230,Cormier vs. Lewis,2018-11-03,Cormier,Lewis,"250,000",Heavyweight
+UFC 231,Holloway vs. Ortega,2018-12-8,Holloway,Ortega,"300,000",Featherweight
+UFC 232,Jones vs. Gustafsson 2,2018-12-29,Jones,Gustafsson,"700,000",Light Heavyweight
+UFC 234,Adesanya vs. Silva,2019-02-10,Adesanya,A. Silva,"175,000",Middleweight
+UFC 235,Jones vs. Smith,2019-03-02,Jones,Smith,"650,000",Light Heavyweight
+UFC 236,Holloway vs. Poirier 2,2019-04-13,Holloway,Poirier,"100,000",Lightweight
+UFC 237,Namajunas vs. Andrade,2019-05-11,Namajunas,Andrade,"110,000",Strawweight
+UFC 238,Cejudo vs. Moraes,2019-06-08,Cejudo,Moraes,"250,000",Bantamweight
+UFC 239,Jones vs. Santos,2019-07-06,Jones,Santos,"500,000",Light Heavyweight
+UFC 240,Holloway vs. Edgar,2019-07-27,Holloway,Edgar,"150,000",Featherweight
+UFC 241,Cormier vs. Miocic 2,2019-08-17,Cormier,Miocic,"450,000",Heavyweight
+UFC 242,Khabib vs. Poirier,2019-09-07,Khabib,Poirier,"900,000",Lightweight
+UFC 243,Whittaker vs. Adesanya,2019-10-06,Whittaker,Adesanya,"400,000",Middleweight
+UFC 244,Masvidal vs. Diaz,2019-11-02,Masvidal,Diaz,"900,000",Welterweight
+UFC 245,Usman vs. Covington,2019-12-14,Usman,Covington,"600,000",Welterweight
+UFC 246,McGregor vs. Cerrone,2020-01-18,McGregor,Cerrone,"1,000,000",Lightweight
+UFC 247,Jones vs. Reyes,2020-02-08,Jones,Reyes,"400,000",Light Heavyweight
+UFC 248,Adesanya vs. Romero,2020-03-07,Adesanya,Romero,"300,000",Middleweight
+UFC 249,Ferguson vs. Gaethje,2020-04-09,Ferguson,Gaethje,"700,000",Lightweight
+UFC 250,Nunes vs Spencer,2020-06-09,Nunes,Spencer,"100,000",Featherweight
+UFC 251,Usman vs Masvidal,2020-07-11,Usman,Masvidal,"1,300,000",Welterweight
+UFC 252,Miocic vs. Cormier 3,2020-08-15,Miocic,Cormier,"500,000",Heavyweight
+UFC 253,Adesanya vs. Costa,2020-09-26,Adesanya,Costa,"700,000",Middleweight
+UFC 254,Khabib vs. Gaethje,2020-10-24,Khabib,Gaethje,"650,000",Lightweight
+UFC 255,Figueiredo vs. Perez,2020-11-21,Figueiredo,Perez,"180,000",Flyweight
+UFC 256,Figueiredo vs. Moreno,2020-12-12,Figueiredo,Moreno,"250,000",Flyweight
+UFC 257,Poirier vs. McGregor 2,2021-01-23,Poirier,McGregor,"1,600,000",Lightweight
+UFC 258,Usman vs. Burns,2021-02-13,Usman,Burns,"300,000",Welterweight
+UFC 259,Blachowicz vs. Adesanya,2021-03-06,Blachowicz,Adesanya,"800,000",Light Heavyweight
+UFC 260,Miocic vs. Ngannou 2,2021-03-27,Miocic,Ngannou,"400,000",Heavyweight
+UFC 261,Usman vs Masvidal 2,2021-04-24,Usman,Masvidal,"700,000",Welterweight
+UFC 262,Oliveira vs. Chandler,2021-05-15,Oliveira,Chandler,"300,000",Lightweight
+UFC 263,Adesanya vs. Vettori,2021-06-12,Adesanya,Vettori,"600,000",Middleweight
+UFC 264,Poirier vs. McGregor 3,2021-07-10,Poirier,McGregor,"1,800,000",Lightweight
+UFC 265,Lewis vs. Gane,2021-08-07,Lewis,Gane,"300,000",Heavyweight
+UFC 266,Volkanovski vs. Ortega,2021-09-25,Volkanovski,Ortega,"400,000",Featherweight
+UFC 267,Blachowicz vs. Teixera,2021-10-30,Blachowicz,Teixera,,Light Heavyweight
+UFC 268,Usman vs. Covington 2,2021-11-06,Usman,Covington,"700,000",Welterweight
+UFC 269,Oliveira vs. Poirier,2021-12-11,Oliveira,Poirier,"500,000",Lightweight
+UFC 270,Ngannou vs. Gane,2022-01-22,Ngannou,Gane,"450,000",Heavyweight
+UFC 271,Adesanya vs. Whittaker 2,2022-02-12,Adesanya,Whittaker,"400,000",Middleweight
+UFC 272,Covington vs. Masvidal,2022-03-03,Covington,Masvidal,"400,000",Welterweight
+UFC 273,Volkanovski vs. Korean Zombie,2022-04-09,Volkanovski,Chan Sung Jung,"300,000",Featherweight
+UFC 274,Oliveira vs. Gaethje,2022-05-07,Oliveira,Gaethje,"300,000",Lightweight
+UFC 275,Teixera vs. Prochazka,2022-06-11,Teixera,Prochazka,"200,000",Light Heavyweight
+UFC 276,Adesanya vs. Cannonier,2022-07-02,Adesanya,Cannonier,"400,000",Middleweight
+UFC 277,Pena vs. Nunes 2,2022-07-30,Pena,Nunes,"300,000",Bantamweight
+UFC 278,Usman vs. Edwards,2022-08-20,Usman,Edwards,"400,000",Welterweight
+UFC 279,Diaz vs. Ferguson,2022-09-10,Diaz,Ferguson,"400,000",Lightweight
+UFC 280,Oliveira vs. Makhachev,2022-10-22,Oliveira,Makhachev,"500,000",Lightweight
+UFC 281,Adesanya vs. Pereira,2022-11-12,Adesanya,Pereira,"650,000",Middleweight
+UFC 282,Blachowicz vs. Ankalaev,2022-12-10,Blachowicz,Ankalaev,"200,000",Light Heavyweight
+UFC 283,Teixera vs. Hill,2023-01-21,Teixera,Hill,"250,000",Light Heavyweight
+UFC 284,Volkanovski vs. Makhachev,2023-02-11,Volkanovski,Makhachev,"500,000",Lightweight
+UFC 285,Jones vs. Gane,2023-03-04,Jones,Gane,"800,000",Heavyweight
+UFC 286,Edwards vs. Usman 3,2023-03-18,Edwards,Usman,"400,000",Welterweight
+UFC 287,Pereira vs. Adesanya,2023-04-08,Pereira,Adesanya,"700,000",Middleweight
+UFC 288,Sterling vs. Cejudo,2023-05-06,Sterling,Cejudo,"200,000",Bantamweight
+UFC 289,Nunes vs. Aldana,2023-06-10,Nunes,Aldana,"200,000",Bantamweight
+UFC 290,Volkanovski vs. Rodriguez,2023-07-08,Volkanovski,Rodriguez,"450,000",Featherweight
+UFC 291,Poirier vs Gaethje 2,2023-07-29,Poirier,Gaethje,"400,000",Lightweight
+UFC 292,Sterling vs. O’Malley,2023-08-19,Sterling,O’Malley,"500,000",Bantamweight
+UFC 293,Adesanya vs. Strickland,2023-09-10,Adesanya,Strickland,"300,000",Middleweight
+UFC 294,Makhachev vs Volkanovski 2,2023-10-21,Makhachev,Volkanovski,,Lightweight
+UFC 295,Prochazka vs Pereira,2023-11-11,Prochazka,Pereira,"400,000",Light Heavyweight
+UFC 296,Edwards vs. Covington,2023-12-16,Edwards,Covington,,Welterweight
+UFC 297,Strickland vs. Du Plessis,2024-01-20,Strickland,Du Plessis,,Middleweight
+UFC 298,Volkanovski vs. Topuria,2024-02-17,Volkanovski,Topuria,,Featherweight
+UFC 299,O’Malley vs Vera 2,2024-03-09,O’Malley,Vera,,Bantamweight
+UFC 300,Pereira vs. Hill,2024-04-13,Pereira,Hill,,Light Heavyweight
+UFC 301,Pantoja vs. Erceg,2024-05-04,Pantoja,Erceg,,Flyweight
+UFC 302,Makhachev vs. Poirier,2024-06-01,Makhachev,Poirier,,Lightweight
+UFC 304,Edwards vs. Muhammad,2024-07-27,Edwards,Muhammad,,Welterweight
+UFC 305,Du Plessis vs. Adesanya,2024-08-17,Du Plessis,Adesanya,,Middleweight
+UFC 306,Grasso vs. Shevchenko 3,2024-09-15,Grasso,Shevchenko,,Flyweight
+UFC 307,O'Malley vs. Yan,2024-10-12,O’Malley,Yan,,Bantamweight
+UFC 308,Topuria vs. Holloway,2024-10-26,Topuria,Holloway,,Featherweight
+UFC 309,Jones vs. Miocic,2024-11-16,Jones,Miocic,,Heavyweight
+UFC 310,Pantoja vs. Asakura,2024-12-07,Pantoja,Asakura,,Flyweight
+UFC 311,Makhachev vs. Moicano,2025-01-18,Makhachev,Moicano,,Lightweight
+UFC 312,Du Plessis vs. Strickland 2,2025-02-08,Du Plessis,Strickland,,Middleweight
+UFC 313,Pereira vs. Ankalaev,2025-03-08,Pereira,Ankalaev,,Light Heavyweight
+UFC 314,Volkanovski vs Lopes,2025-04-12,Volkanovski,Lopes,,Featherweight
+UFC 315,Muhammad vs Della Maddalena,2025-05-10,Muhammad,Della Maddalena,,Welterweight
+UFC 316,Dvalishvili vs O’Malley 2,2025-06-07,Dvalishvili,O’Malley,,Bantamweight
+UFC 317,Topuria vs. Oliveira,2025-06-28,Topuria,Oliveira,,Lightweight
+UFC 318,Holloway vs Poirier 3,2025-07-19,Holloway,Poirier,,Lightweight
